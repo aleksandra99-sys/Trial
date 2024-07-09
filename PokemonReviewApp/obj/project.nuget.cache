@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L0sfJCdBIAY=",
+  "dgSpecHash": "b0rrxji6BPM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandra\\Desktop\\WebApiPrvi\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+  "projectFilePath": "C:\\Users\\Aleksandra\\Desktop\\WebApiPrvi\\PokemonReviewApp\\Trial\\PokemonReviewApp\\PokemonReviewApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Aleksandra\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

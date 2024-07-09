@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleksandra\\Desktop\\WebApiPrvi\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+      "projectUniqueName": "C:\\Users\\Aleksandra\\Desktop\\WebApiPrvi\\PokemonReviewApp\\Trial\\PokemonReviewApp\\PokemonReviewApp.csproj",
       "projectName": "PokemonReviewApp",
-      "projectPath": "C:\\Users\\Aleksandra\\Desktop\\WebApiPrvi\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+      "projectPath": "C:\\Users\\Aleksandra\\Desktop\\WebApiPrvi\\PokemonReviewApp\\Trial\\PokemonReviewApp\\PokemonReviewApp.csproj",
       "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleksandra\\Desktop\\WebApiPrvi\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
+      "outputPath": "C:\\Users\\Aleksandra\\Desktop\\WebApiPrvi\\PokemonReviewApp\\Trial\\PokemonReviewApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
