@@ -1,4 +1,4 @@
-﻿namespace PokemonReviewApp
+﻿namespace PokemonReviewApp.Model
 {
     public class Review
     {
